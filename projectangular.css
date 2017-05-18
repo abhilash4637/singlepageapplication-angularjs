@@ -1,0 +1,17 @@
+#clrtop{
+    background-color: #e3e5e8;
+}
+#clrbottom{
+    background-color: #e3e5e8;
+}
+#right{
+    margin-right: 100px;
+}
+tr th{
+    padding:5px 10px;
+}
+#empdiv{
+    height:450px;
+
+    /*border:1px solid red;*/
+}
